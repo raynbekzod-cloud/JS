@@ -1,15 +1,14 @@
 let name = "Islom"
 let birth_day = 2013
 
-namesur="Islomjon Erkinov"
+namesur="Abdulkhalilov Bekzod"
 
 matn ="yoshi"
 
 age = 13
  
-let surname = "Erkinov"
+let surname = "Abdulkhalilov"
 
-console.log(name +  surname +  matn + age)
 console.log(namesur)
 console.log(birth_day+age)
 console.log(birth_day-age)
